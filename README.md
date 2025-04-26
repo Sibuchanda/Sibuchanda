@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a MERN stack developer<br>🤝 I’m looking for help with other developers<br>🌱 I’m currently learning backend development<br>💬 Ask me about  development<br>
+🔭 I’m a MERN stack developer<br>🤝 I’m looking for help with other developers<br>🌱 I’m currently exploring Artificial Intelligence and Machine Learning<br>💬 Ask me about  development<br>
 
 
 ## 🌐 Socials:
