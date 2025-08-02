@@ -14,7 +14,6 @@
 
 
 <br><br>
-- :trophy: 2x `ACPC` Finalist.
 - :technologist: MERN Developer.
 - :boom: Finding solution for a `Problem` gives me peace.
 - :computer: I also love to solve DSA problems at `Leetcode (350+)`, `GeeksforGeeks`.
