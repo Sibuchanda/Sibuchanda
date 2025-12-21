@@ -48,9 +48,34 @@
 
 ## 📊 Profile Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sibuchanda&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile"/>
-</div>
+<p align="center">
+
+<!-- OLD github-readme-stats
+<a href="https://github.com/Sibuchanda?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Sibuchanda&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Sibuchanda's github-readme-stats"/></a>
+-->
+
+<a href="https://github.com/Sibuchanda?tab=repositories#gh-dark-mode-only">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Sibuchanda&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+       width="48%" alt="@Sibuchanda's github-readme-stats"/>
+</a>
+
+<a href="https://github.com/Sibuchanda?tab=repositories#gh-light-mode-only">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Sibuchanda&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+       width="48%" alt="@Sibuchanda's github-readme-stats"/>
+</a>
+
+<a href="https://github.com/Sibuchanda?tab=stars#gh-dark-mode-only">
+  <img src="https://github-streak-stats-ruby.vercel.app?user=Sibuchanda&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+       width="48%" alt="@Sibuchanda's github-readme-streak-stats"/>
+</a>
+
+<a href="https://github.com/Sibuchanda?tab=stars#gh-light-mode-only">
+  <img src="https://github-streak-stats-ruby.vercel.app?user=Sibuchanda&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+       width="48%" alt="@Sibuchanda's github-readme-streak-stats"/>
+</a>
+
+</p>
+
 
 ### 💳 Github Profile Summary Card
 
