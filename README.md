@@ -83,14 +83,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sibuchanda&theme=github_dark"/>
 </div>
 
-### ⏱ Streak Stats
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Sibuchanda&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF"/>
-  </a>
-</div>
-
 ### 📈 Activity Graph
 
 <div align="center">
